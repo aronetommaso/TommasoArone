@@ -28,9 +28,9 @@ Sono uno studente al terzo anno di **Scienze Statistiche ed Economiche** presso 
 ---
 
 ## 🚀 Progetti in evidenza
-- **Earthquake Classification**
+- [**Earthquake Classification**](https://github.com/aronetommaso/Data-Mining-Project)
   Progetto svolto per l'esame di _Data Mining_, in cui si classificano i movimenti sismici in _Earthquake_ e _non_earthquake_
-- **Exoplanet Temperature Study**
+- [**Exoplanet Temperature Study**](https://github.com/aronetommaso/Computational-Statistic-Project)
   Progetto svolto per l'esame di _Statistica Computazionale_, in cui si studia la temperatura di vari esopianeti tramite modelli di regressione e classificazione   
 
 ---
