@@ -1,42 +1,43 @@
-# Ciao, sono Tommaso Arone 👋
+# Hi, I'm Tommaso Arone 👋
 
-Sono uno studente al terzo anno di **Scienze Statistiche ed Economiche** presso l’Università degli Studi di Milano–Bicocca. Appassionato di **data analysis**, **intelligenza artificiale** e **machine learning**, amo trasformare i numeri in insight utili e creare modelli predittivi sempre più accurati.
-
----
-
-## 🎓 Formazione
-- **Laurea triennale** in Scienze Statistiche ed Economiche  
-  Università degli Studi di Milano–Bicocca (2022 – 2025)
+I’m a first-year **Data Science** student at the University of Milano–Bicocca. Passionate about **data analysis**, **artificial intelligence**, and **machine learning**, I love turning numbers into actionable insights and developing increasingly accurate predictive models.  
 
 ---
 
-## 🔬 Aree di interesse
-- Analisi esplorativa e visualizzazione dati  
-- Modellistica statistica e machine learning  
-- Deep learning e reti neurali  
-- Automazione e data pipeline  
+## 🎓 Education
+- **Bachelor’s Degree** in Statistical and Economic Sciences  
+  University of Milano–Bicocca (2022 – 2025), Graduation grade: 110/110 cum laude  
+- **Master’s Degree** in Data Science  
+  University of Milano–Bicocca (2025 – present)  
 
 ---
 
-## 🛠️ Competenze tecniche
-- **Linguaggi**: R, Python  
-- **Librerie / Framework**:  
+## 🔬 Research Interests
+- Computer Vision: image classification, Out-of-Distribution Detection, Self-supervised Learning  
+- Optimization: Linear Programming, Reinforcement Learning  
+- Deep Learning and Neural Networks  
+- Data Pipelines and Automation  
+- Natural Language Processing  
+
+---
+
+## 🛠️ Technical Skills
+- **Programming Languages**: R, Python  
+- **Libraries / Frameworks**:  
   - *In R*: tidyverse (ggplot2, dplyr, tidyr), caret, Shiny  
   - *In Python*: pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, Seaborn  
-- **Database & Strumenti**: SQL, Git & GitHub, Jupyter Notebook, RStudio, VScode
+- **Databases & Tools**: SQL, Git & GitHub, Jupyter Notebook, RStudio, VS Code  
 
 ---
 
-## 🚀 Progetti in evidenza
-- [**Earthquake Classification**](https://github.com/aronetommaso/Data-Mining-Project)
-  Progetto svolto per l'esame di _Data Mining_, in cui si classificano i movimenti sismici in _Earthquake_ e _non_earthquake_
-- [**Exoplanet Temperature Study**](https://github.com/aronetommaso/Computational-Statistic-Project)
-  Progetto svolto per l'esame di _Statistica Computazionale_, in cui si studia la temperatura di vari esopianeti tramite modelli di regressione e classificazione   
+## 🚀 Featured Projects
+- [**Earthquake Classification**](https://github.com/aronetommaso/Data-Mining-Project)  
+  Project developed for the *Data Mining* exam, focused on classifying seismic events into *earthquake* and *non-earthquake*.  
+- [**Exoplanet Temperature Study**](https://github.com/aronetommaso/Computational-Statistic-Project)  
+  Project developed for the *Computational Statistics* exam, analyzing exoplanet temperatures through regression and classification models.  
 
 ---
 
-## 📫 Contatti
-- Email: _tommasoarone@gmail.com_
-- LinkedIn: [linkedin.com/in/tommaso-arone](https://linkedin.com)
-
----
+## 📫 Contacts
+- Email: _tommasoarone@gmail.com_  
+- LinkedIn: [linkedin.com/in/tommaso-arone](https://linkedin.com)  
