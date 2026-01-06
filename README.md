@@ -34,8 +34,14 @@ I’m a first-year **Data Science** student at the University of Milano–Bicocc
 - [**Earthquake Classification**](https://github.com/aronetommaso/Data-Mining-Project)  
   Project developed for the *Data Mining* exam, focused on classifying seismic events into *earthquake* and *non-earthquake*.  
 - [**Exoplanet Temperature Study**](https://github.com/aronetommaso/Computational-Statistic-Project)  
-  Project developed for the *Computational Statistics* exam, analyzing exoplanet temperatures through regression and classification models.  
-
+  Project developed for the *Computational Statistics* exam, analyzing exoplanet temperatures through regression and classification models.
+- [**Bitcoin Market Analysis and News Integration**](https://github.com/aronetommaso/DataMan-Project)
+  Project developed for the *Data Management* exam, focused on Data Management, Data Storage and Data Model.
+- [**Global Warming Analysis**](https://github.com/aronetommaso/DataViz-Project/tree/main)
+  Project developed for the *Data Visualization* exam, focused on data visualization, plotting.
+- [**Tombola Montecarlo Simulation**](https://github.com/aronetommaso/TombolaSimulation)
+  Project developed Individually to study and simulate the *Tombola* Italian game.
+  
 ---
 
 ## 📫 Contacts
